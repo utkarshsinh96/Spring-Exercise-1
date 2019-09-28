@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Spring Demo</title>
+<title> Exercise 2 </title>
 </head>
 <body>
 <form action="login" method="post">
